@@ -1,0 +1,1 @@
+declare const HYPEGIENIC_API:string
